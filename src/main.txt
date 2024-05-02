@@ -1,1 +1,2 @@
 welcome to the world of DevOps
+ in Devops the mainpart is involving in both development and operations by using agile method
